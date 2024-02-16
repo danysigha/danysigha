@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danysigha
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP and MySQL
+- 🌱 I’m currently learning PHP and MySQL (actively) Java, C, Javascript, Algorithms and Data Structures (passively)
 - 📫 How to reach me: nohonetdany@gmail.com
 
 <!---
