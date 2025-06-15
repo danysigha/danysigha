@@ -37,12 +37,13 @@ Front-End Engineer Exploring the Back-End | Javascript, Elixir, Spring Boot | Tu
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danysigha/)
-[![Personal Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome&logoColor=white)](https://danysigha.github.io/)
+[![Personal Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=safari&logoColor=white)](https://danysigha.github.io/)
 
 ## 🌱 Currently Learning
 - Elixir
 - Design Patterns
 - Big Data architecture and applications
+- Avalanche Blockchain
 
 ## 💬 Ask Me About
 - Soccer ⚽️
