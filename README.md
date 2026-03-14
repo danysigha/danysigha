@@ -26,11 +26,6 @@ DB            PostgreSQL
 Cloud         AWS, GCP
 Tools         Webpack, Vite, Docker, Git, Terraform
 
-Projects
-UEFA_Vis      277 players · 34 seasons · 39 coaches
-HackerTracker Leetcode top 150 question management tool
-CoverClever   Insurance policy chatbot
-
 Hobbies       Soccer
 ------------------------
 Contact       sigha.dany@gmail.com
