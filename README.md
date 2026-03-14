@@ -30,6 +30,7 @@ Hobbies       Soccer
 ------------------------
 Contact       sigha.dany@gmail.com
 LinkedIn      linkedin.com/in/danysigha
+Porfolio      https://danysigha.github.io/
 ```
 
   </td>
@@ -48,10 +49,6 @@ LinkedIn      linkedin.com/in/danysigha
 | [SniffSift](https://github.com/mhendy25/offline_network_traffic_analyzer) | SniffSift is an offline network traffic analyzer. The input of the analyzer is a hex dump text file containing the bytes of multiple packets captured on an Ethernet link. | ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/embed/Ltzb6gfY8uk?si=8PgAEypbuf3xPl8e) |
 | [WEENSYOS](https://gitlab.com/danysigha/kernel_development) | A tiny (but real!) operating system. The WeensyOS kernel runs on x86-64 CPUs, so I run WeensyOS in QEMU. | ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=gnu) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash) | [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/embed/2Wx0bywwvfA?si=sGRp3UpXtbbYv09D)
 
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danysigha/)
-[![Personal Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=safari&logoColor=white)](https://danysigha.github.io/)
 
 ## 🌱 Currently Learning
 - Design Patterns
