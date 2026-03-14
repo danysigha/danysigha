@@ -1,18 +1,46 @@
-# 👋🏾 Hi there! I'm Dany Sigha
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./my_image.png" alt="ASCII art"/>
+    </td>
+    <td valign="top">
 
-## 🤵🏾‍♂️ About Me
-Building scalable applications | AngularJS | Spring Boot
+```
+dany@sigha
+------------------------
+OS            macOS, Windows 10
+Host          Darby – Underscore VC
+Kernel        Engineer · ex-SWE @ Darby
+IDE           IDEA, VSCode
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danysigha/)
+Lang.Code     Python, Java, TypeScript, R
+Lang.Markup   HTML, CSS, LaTeX, Markdown
+Lang.Human    French, English
 
+Undergrad     NYU Shanghai
+Masters       Northeastern University
 
-### 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white)
+Frontend      React.js, AngularJS, D3.js
+Backend       Spring Boot
+DB            PostgreSQL
+Cloud         AWS, GCP
+Tools         Webpack, Vite, Docker, Git, Terraform
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+Projects
+UEFA_Vis      277 players · 34 seasons · 39 coaches
+HackerTracker Leetcode top 150 question management tool
+CoverClever   Insurance policy chatbot
+
+Hobbies       Soccer
+------------------------
+Contact     sigha.dany@gmail.com
+LinkedIn    linkedin.com/in/danysigha
+```
+
+  </td>
+  </tr>
+</table>
+
 
 ## 🛠 Projects
 ### 🌟 Highlighted Projects
@@ -33,6 +61,3 @@ Building scalable applications | AngularJS | Spring Boot
 ## 🌱 Currently Learning
 - Design Patterns
 - Statistics for AI
-
-## 💬 Ask Me About
-- Soccer ⚽️
