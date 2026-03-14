@@ -135,3 +135,10 @@ A tiny but real operating system running on x86-64 CPUs via QEMU.
 ## 🌱 Currently Learning
 - Design Patterns
 - Statistics for AI
+
+## 😄 Dev Joke of the Day
+
+<i>A random dev joke, refreshes on every visit ↓</i><br>
+<a href="https://readme-jokes.vercel.app">
+  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%234a154b&textColor=%23155724&aColor=%23c3e6cb&borderColor=%23d2c7ed" alt="README Jokes" width="100%"/>
+</a>
