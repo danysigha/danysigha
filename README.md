@@ -1,7 +1,7 @@
 # 👋🏾 Hi there! I'm Dany Sigha
 
 ## 🤵🏾‍♂️ About Me
-Front-End Engineer Exploring the Back-End | Javascript, Elixir, Spring Boot | Turning ideas into performant scalable apps 
+Building scalable applications | AngularJS | Spring Boot
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danysigha/)
 
@@ -9,13 +9,10 @@ Front-End Engineer Exploring the Back-End | Javascript, Elixir, Spring Boot | Tu
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir&logoColor=purple)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Phoenix](https://img.shields.io/badge/-Phoenix-05122A?style=flat&logo=phoenixframework)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 
 ## 🛠 Projects
 ### 🌟 Highlighted Projects
@@ -28,25 +25,14 @@ Front-End Engineer Exploring the Back-End | Javascript, Elixir, Spring Boot | Tu
 | [SniffSift](https://github.com/mhendy25/offline_network_traffic_analyzer) | SniffSift is an offline network traffic analyzer. The input of the analyzer is a hex dump text file containing the bytes of multiple packets captured on an Ethernet link. | ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/embed/Ltzb6gfY8uk?si=8PgAEypbuf3xPl8e) |
 | [WEENSYOS](https://gitlab.com/danysigha/kernel_development) | A tiny (but real!) operating system. The WeensyOS kernel runs on x86-64 CPUs, so I run WeensyOS in QEMU. | ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=gnu) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash) | [![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/embed/2Wx0bywwvfA?si=sGRp3UpXtbbYv09D)
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=danysigha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danysigha&layout=compact&theme=radical)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sighadany&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sighadany&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danysigha/)
 [![Personal Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=safari&logoColor=white)](https://danysigha.github.io/)
 
 ## 🌱 Currently Learning
-- Elixir
 - Design Patterns
-- Big Data architecture and applications
-- Avalanche Blockchain
+- Statistics for AI
 
 ## 💬 Ask Me About
 - Soccer ⚽️
-
----
-*Readme generated with ❤️ by Dany Sigha*
