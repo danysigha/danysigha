@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="./my_image.png" alt="ASCII art"/>
+      <img src="./my_image.png" alt="ASCII art" width="100%"/>
     </td>
     <td valign="top" width="50%">
 
