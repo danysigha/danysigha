@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <img src="./my_image.png" alt="ASCII art"/>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
 
 ```
 dany@sigha
