@@ -33,8 +33,8 @@ CoverClever   Insurance policy chatbot
 
 Hobbies       Soccer
 ------------------------
-Contact     sigha.dany@gmail.com
-LinkedIn    linkedin.com/in/danysigha
+Contact       sigha.dany@gmail.com
+LinkedIn      linkedin.com/in/danysigha
 ```
 
   </td>
