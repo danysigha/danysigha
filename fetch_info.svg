@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 580" width="580" height="580" style="font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;">
+  <rect width="580" height="580" fill="#ffffff" rx="6"/>
+
+  <!-- Header -->
+  <text x="24" y="40" font-size="15" font-weight="600" fill="#24292f">dany@sigha</text>
+  <line x1="24" y1="50" x2="556" y2="50" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- OS / Host / Kernel / IDE -->
+  <text x="24" y="72" font-size="12.5" fill="#cf7a00">OS</text>
+  <text x="220" y="72" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="72" font-size="12.5" fill="#24292f">macOS, Windows 10</text>
+
+  <text x="24" y="90" font-size="12.5" fill="#cf7a00">Host</text>
+  <text x="220" y="90" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="90" font-size="12.5" fill="#24292f">Darby – Underscore VC</text>
+
+  <text x="24" y="108" font-size="12.5" fill="#cf7a00">Kernel</text>
+  <text x="220" y="108" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="108" font-size="12.5" fill="#24292f">Engineering – Prev SWE @ Darby</text>
+
+  <text x="24" y="126" font-size="12.5" fill="#cf7a00">IDE</text>
+  <text x="220" y="126" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="126" font-size="12.5" fill="#24292f">IDEA, VSCode</text>
+
+  <!-- Languages -->
+  <text x="24" y="152" font-size="12.5" fill="#cf7a00">Languages.Programming</text>
+  <text x="220" y="152" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="152" font-size="12.5" fill="#24292f">Python, Java, TypeScript</text>
+
+  <text x="24" y="170" font-size="12.5" fill="#cf7a00">Languages.Computer</text>
+  <text x="220" y="170" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="170" font-size="12.5" fill="#24292f">R, HTML, CSS, LaTeX, Markdown</text>
+
+  <text x="24" y="188" font-size="12.5" fill="#cf7a00">Languages.Human</text>
+  <text x="220" y="188" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="188" font-size="12.5" fill="#24292f">French, English</text>
+
+  <!-- Education -->
+  <text x="24" y="214" font-size="12.5" fill="#cf7a00">Education.Undergrad</text>
+  <text x="220" y="214" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="214" font-size="12.5" fill="#24292f">NYU Shanghai</text>
+
+  <text x="24" y="232" font-size="12.5" fill="#cf7a00">Education.Masters</text>
+  <text x="220" y="232" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="232" font-size="12.5" fill="#24292f">Northeastern University</text>
+
+  <!-- Frameworks -->
+  <text x="24" y="258" font-size="12.5" fill="#cf7a00">Frameworks.Frontend</text>
+  <text x="220" y="258" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="258" font-size="12.5" fill="#24292f">React, Angular, D3.js</text>
+
+  <text x="24" y="276" font-size="12.5" fill="#cf7a00">Frameworks.Backend</text>
+  <text x="220" y="276" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="276" font-size="12.5" fill="#24292f">Spring Boot</text>
+
+  <text x="24" y="294" font-size="12.5" fill="#cf7a00">Databases</text>
+  <text x="220" y="294" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="294" font-size="12.5" fill="#24292f">MongoDB, PostgreSQL</text>
+
+  <text x="24" y="312" font-size="12.5" fill="#cf7a00">Other.Tools</text>
+  <text x="220" y="312" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="312" font-size="12.5" fill="#24292f">Webpack, Vite, Docker, Linux, Git</text>
+
+  <!-- Hobbies -->
+  <text x="24" y="338" font-size="12.5" fill="#cf7a00">Hobbies</text>
+  <text x="220" y="338" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="338" font-size="12.5" fill="#24292f">Soccer</text>
+
+  <!-- Projects -->
+  <text x="24" y="364" font-size="12.5" fill="#1a7f37">Project.UEFA_Vis</text>
+  <text x="220" y="364" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="364" font-size="12.5" fill="#24292f">277 players · 39 coaches · 34 seasons</text>
+
+  <text x="24" y="382" font-size="12.5" fill="#1a7f37">Project.HackerTracker</text>
+  <text x="220" y="382" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="382" font-size="12.5" fill="#24292f">Leetcode top 150 recommender</text>
+
+  <text x="24" y="400" font-size="12.5" fill="#1a7f37">Project.CoverClever</text>
+  <text x="220" y="400" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="400" font-size="12.5" fill="#24292f">Insurance policy chatbot</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="418" x2="556" y2="418" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Contact -->
+  <text x="24" y="438" font-size="12.5" fill="#cf7a00">Contact</text>
+  <text x="220" y="438" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="438" font-size="12.5" fill="#0969da">sigha.dany@gmail.com</text>
+
+  <text x="24" y="456" font-size="12.5" fill="#cf7a00">LinkedIn</text>
+  <text x="220" y="456" font-size="12.5" fill="#57606a">··············</text>
+  <text x="340" y="456" font-size="12.5" fill="#0969da">linkedin.com/in/danysigha</text>
+
+  <!-- Color palette dots -->
+  <circle cx="24"  cy="490" r="10" fill="#f87171"/>
+  <circle cx="50"  cy="490" r="10" fill="#fb923c"/>
+  <circle cx="76"  cy="490" r="10" fill="#facc15"/>
+  <circle cx="102" cy="490" r="10" fill="#4ade80"/>
+  <circle cx="128" cy="490" r="10" fill="#34d399"/>
+  <circle cx="154" cy="490" r="10" fill="#60a5fa"/>
+  <circle cx="180" cy="490" r="10" fill="#818cf8"/>
+  <circle cx="206" cy="490" r="10" fill="#e879f9"/>
+</svg>
