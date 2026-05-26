@@ -44,19 +44,24 @@ Porfolio      https://danysigha.github.io/
   <tr>
     <td width="50%" valign="top">
 
-[![CoverClever](https://svg.bookmark.style/api?url=https://github.com/danysigha/CoverClever&mode=light&style=horizontal)](https://github.com/danysigha/CoverClever)
+[![webapp](https://svg.bookmark.style/api?url=https://github.com/dany-sigha-csye6225/webapp&mode=light&style=horizontal)](https://github.com/dany-sigha-csye6225/webapp)
 
-A browser extension that scans insurance policies, summarizes them, scores them based on user preferences, and includes a chatbot to answer coverage questions.
+Cloud-native REST API with full AWS infrastructure — auto-scaling EC2, RDS, S3, serverless email verification, and IaC via Terraform.
 
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongodb)
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+[![tf-infra](https://svg.bookmark.style/api?url=https://github.com/dany-sigha-csye6225/tf-infra&mode=light&style=horizontal)](https://github.com/dany-sigha-csye6225/tf-infra)
 
-  </td>
+[![serverless](https://svg.bookmark.style/api?url=https://github.com/dany-sigha-csye6225/serverless&mode=light&style=horizontal)](https://github.com/dany-sigha-csye6225/serverless)
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
+![Java](https://img.shields.io/badge/-Java%2021-05122A?style=flat&logo=openjdk)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
+![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer)
+
+</td>
     <td width="50%" valign="top">
 
 [![UEFA Champions League Visualization](https://svg.bookmark.style/api?url=https://github.com/danysigha/uefa_vis&mode=light&style=horizontal)](https://github.com/danysigha/uefa_vis)
@@ -86,48 +91,6 @@ Simplifies the organization process involved in practicing DSA questions.
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=blue)
 
-  </td>
-    <td width="50%" valign="top">
-
-[![Clippie](https://svg.bookmark.style/api?url=https://github.com/danysigha/Clippie_macos&mode=light&style=horizontal)](https://github.com/danysigha/Clippie_macos)
-
-A clipboard manager for macOS with a visual interface and a SQLite database.
-
-![PyQt5](https://img.shields.io/badge/-PyQt5-05122A?style=flat&logo=qt)
-![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-05122A?style=flat&logo=qt)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-
-[![YouTube](https://img.shields.io/badge/-Demo-05122A?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/embed/5HKPmWRBHsQ?si=svQwHsooaSwgr_Wu)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-[![SniffSift](https://svg.bookmark.style/api?url=https://github.com/mhendy25/offline_network_traffic_analyzer&mode=light&style=horizontal)](https://github.com/mhendy25/offline_network_traffic_analyzer)
-
-An offline network traffic analyzer. Takes a hex dump text file containing bytes of packets captured on an Ethernet link.
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
-
-[![YouTube](https://img.shields.io/badge/-Demo-05122A?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/embed/Ltzb6gfY8uk?si=8PgAEypbuf3xPl8e)
-
-  </td>
-    <td width="50%" valign="top">
-
-[![WEENSYOS](https://svg.bookmark.style/api?url=https://gitlab.com/danysigha/kernel_development&mode=light&style=horizontal)](https://gitlab.com/danysigha/kernel_development)
-
-A tiny but real operating system running on x86-64 CPUs via QEMU.
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Makefile](https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=gnu)
-![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash)
-
-[![YouTube](https://img.shields.io/badge/-Demo-05122A?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/embed/2Wx0bywwvfA?si=sGRp3UpXtbbYv09D)
-
-  </td>
   </tr>
 </table>
 
